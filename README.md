@@ -1,8 +1,6 @@
-# React + Vite
+# C# Server for the React Controlled Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Two repositories to show a simple full stack application.  Front end is a React Form and back, a .Net webapi in C# with an in memory database.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[React Controlled Forms](https://github.com/boolean-uk/csharp-react-form)  
+[React Controlled Forms Server](https://github.com/boolean-uk/csharp-react-form-server)  
