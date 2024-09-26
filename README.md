@@ -1,4 +1,4 @@
-# C# Server for the React Controlled Form
+# C# React Controlled Form
 
 Two repositories to show a simple full stack application.  Front end is a React Form and back, a .Net webapi in C# with an in memory database.
 
